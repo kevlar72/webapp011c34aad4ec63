@@ -65,3 +65,4 @@ C:\Learn\udemy\TerraformOnAzure\code\application\learningapp\obj\Debug\net8.0\re
 C:\Learn\udemy\TerraformOnAzure\code\application\learningapp\obj\Debug\net8.0\learningapp.pdb
 C:\Learn\udemy\TerraformOnAzure\code\application\learningapp\obj\Debug\net8.0\learningapp.genruntimeconfig.cache
 C:\Learn\udemy\TerraformOnAzure\code\application\learningapp\obj\Debug\net8.0\ref\learningapp.dll
+C:\Learn\udemy\TerraformOnAzure\code\application\learningapp\obj\Debug\net8.0\learningapp.sourcelink.json
